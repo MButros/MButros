@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align = "center">
+<img src="logo.png" width="1000">
+<p>
+  
+# Michael Butros
 
-<!--
-**MButros/MButros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="MichaelButros.jpg" width="300">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Welcome 
+Welcome to my Github Site.  I teach Physics and Mathematics at a Community College.  Below you will find more about my interests, some of my dabbling in coding, and in the future, data science projects. 
+
+## Interests
+* Physics and Mathemtics  
+* Use of Technology in Physics and Mathematics Education
+* Data Science, Machine Learning, and Artificial Intenlligence
+* MATLAB
+* Python
+* R/RStudio
+* LaTeX
