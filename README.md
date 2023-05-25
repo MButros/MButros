@@ -1,3 +1,7 @@
+<p align = "center">
+<img src="logo.png" width="1000">
+<p>
+
 # Michael Butros
 
 ## Welcome 
