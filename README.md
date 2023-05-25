@@ -1,10 +1,10 @@
-<p align = "center">
-<img src="logo.png" width="1000">
-<p>
+#<p align = "center">
+#<img src="logo.png" width="1000">
+#<p>
   
 # Michael Butros
 
-<img src="MichaelButros.jpg" width="300">
+#<img src="MichaelButros.jpg" width="300">
 
 
 ## Welcome 
