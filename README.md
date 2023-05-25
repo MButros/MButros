@@ -1,7 +1,7 @@
 # Michael Butros
 
 ## Welcome 
-Welcome to my Github Site.  I teach Physics and Mathematics at a Community College.  Below you will find more about my interests, some of my dabbling in coding, and in the future, data science projects. 
+Welcome to my Github.  I teach Physics and Mathematics at a Community College.  Below you will find more about my interests, some of my dabbling in coding, and in the future, data science projects. 
 
 ## Interests
 * Physics and Mathemtics  
