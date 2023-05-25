@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="logo.png" width="1000">
+<img src="Logo.png" width="1000">
 <p>
 
 ## Welcome 
