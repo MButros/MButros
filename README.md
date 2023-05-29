@@ -3,7 +3,7 @@
 <p>
 
 ## Welcome 
-Welcome to my Github.  I teach Physics and Mathematics at a Community College.  Below you will find more about my interests, some of my dabbling in coding, and in the future, data science projects. Repositories for each will be added as they become ready.  
+Welcome to my Github.  I teach Physics and Mathematics at a Community College.  Below you will find more about my interests, some of my dabbling in coding, and data science projects. Repositories for each will be added as they become ready.  
   
 The main focus for me is to provide students of the topics below a few hints on how to approach some of the problems they might encounter when studying the topics and showcase some project I have done while studying those topics myself.
 
