@@ -7,6 +7,8 @@ Welcome to my Github.  I teach Physics and Mathematics at a Community College.  
   
 The main focus for me is to provide students of the topics below a few hints on how to approach some of the problems they might encounter when studying the topics and showcase some project I have done while studying those topics myself.
 
+  ![Butros's GitHub stats](https://github-readme-stats.vercel.app/api?username=MButros&theme=dark&show_icons=true)
+  
 ## Interests
 *  [Physics and Mathematics Codes](https://github.com/MButros/Physics_Mathematics_Codes)
 * Data Science, Machine Learning, and Artificial Intelligence
