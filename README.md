@@ -11,7 +11,4 @@ The main focus for me is to provide students of the topics below a few hints on 
 ## Interests
 *  [Physics and Mathematics Codes](https://github.com/MButros/Physics_Mathematics_Codes)
 * Data Science, Machine Learning, Artificial Intelligence, and Analytics
-* MATLAB
-* Python
-* R/RStudio
-* LaTeX
+
